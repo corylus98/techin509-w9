@@ -16,6 +16,9 @@ A `requirements.txt` file is included to specify this requirement.
 ### Setting Up the Environment
 
 1. Clone the repository:
+    ```
+    git clone https://github.com/corylus98/techin509-w9.git
+    ```
 2. Set up the required Python environment:
     ```
     python -m venv venv
